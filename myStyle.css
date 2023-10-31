@@ -9,6 +9,11 @@ h1.title{
     margin: 0px;
 }
 
+h1.page_title{
+    font-family: 'Poppins', sans-serif;
+    color: #4d148c;
+}
+
 h1{padding: 0px;
     margin: 0px;}
 
